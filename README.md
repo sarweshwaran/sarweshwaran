@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sarweshwaran form India
+- 👀 I’m interested in Software Developement 
+- 🌱 I’m currently pursuing my degree on Computer and Communication Engineering form RIT Chennai
